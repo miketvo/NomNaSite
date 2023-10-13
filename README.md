@@ -2,7 +2,9 @@
 
 [![demo](./imgs/demo.png)](https://youtu.be/o5xpfwalEWw)
 
-> Demo: https://share.streamlit.io/ds4v/nomnasite/main/app.py
+> Demo: [https://share.streamlit.io/ds4v/nomnasite/main/app.py](https://share.streamlit.io/ds4v/nomnasite/main/app.py)
+
+Python version: 3.11.5
 
 ## Usage
 
@@ -27,8 +29,8 @@ streamlit run app.py
     - Export detection, recognition, and translation results to [CSV](data/data.csv) or [JSON](data/data.json).
     - Download [patches](data/patches.zip) cropped from detected bounding boxes.
 5. Translate using APIs from:
-    - VNUHCM University of Science: https://www.clc.hcmus.edu.vn/?page_id=3039
-    - Sino-Nôm dictionary: https://hvdic.thivien.net/transcript.php#trans
+    - VNUHCM University of Science: [https://www.clc.hcmus.edu.vn/?page_id=3039](https://www.clc.hcmus.edu.vn/?page_id=3039)
+    - Sino-Nôm dictionary: [https://hvdic.thivien.net/transcript.php#trans](https://hvdic.thivien.net/transcript.php#trans)
 
 **(\*)** Note: In **Editing** mode, double-click a box to remove it.
 
@@ -36,6 +38,6 @@ streamlit run app.py
 
 My Vietnamese Sino-Nôm digitalization series :
 
--   [NomNaOCR](https://github.com/ds4v/NomNaOCR): Optical Character Recognition.
--   [NomNaNMT](https://github.com/ds4v/NomNaNMT): Neural Machine Translation.
--   [NomNaSite](https://github.com/ds4v/NomNaSite): Web Application.
+- [NomNaOCR](https://github.com/ds4v/NomNaOCR): Optical Character Recognition.
+- [NomNaNMT](https://github.com/ds4v/NomNaNMT): Neural Machine Translation.
+- [NomNaSite](https://github.com/ds4v/NomNaSite): Web Application.
